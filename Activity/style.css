@@ -1,0 +1,20 @@
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    height: 180px;
+  }
+  
+  .side {
+    text-align: center;
+    padding: 10px;
+    width: 15%;
+  }
+  .con{
+    text-align: center;
+    padding: 10px;
+ 
+  }
